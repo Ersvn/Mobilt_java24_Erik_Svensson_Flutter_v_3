@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508254151928",
+    "project_id": "flutterdb-27d4f",
+    "storage_bucket": "flutterdb-27d4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508254151928:android:086bbcd93e3e379173470d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnxJVYFN52qksgNLfHtEWy9lmzXUBvOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
